@@ -12,6 +12,7 @@
 ## Dataset🗂️
 - Source: Kaggle 
 - Source url: https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries
+- Size: 1500 rows
 
 ## Kaggle Notebook📓
 https://www.kaggle.com/code/reshmaharidhas/ai-job-market-analysis-in-2025-and-2026/notebook
